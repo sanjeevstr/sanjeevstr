@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjeev</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
-<p align="left"> <a href="https://twitter.com/sanjeev_str" target="blank"><img src="https://img.shields.io/twitter/follow/sanjeev_str?logo=twitter&style=for-the-badge" alt="sanjeev_str" /></a> </p>
-
 - 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **Anthing You Want !**
