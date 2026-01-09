@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sanjeev_str" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sanjeev_str" height="30" width="40" /></a>
+<a href="https://codepen.io/Sanjeev_str" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sanjeev_str" height="30" width="40" /></a>
 <a href="https://twitter.com/sanjeev_str" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjeev_str" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanjeev-sharma-929847398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeev-sharma-929847398" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100080677615200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100080677615200" height="30" width="40" /></a>
